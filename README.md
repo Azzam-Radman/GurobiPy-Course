@@ -57,7 +57,8 @@ Ensure you have the following installed:
    git clone https://github.com/Azzam-Radman/GurobiPy-Course.git
    cd GurobiPy-Course
 
-3. Launch Jupyter Notebook
+3. **Launch Jupyter Notebook**:
+  
   ```bash
    jupyter notebook
 
