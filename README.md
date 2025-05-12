@@ -58,9 +58,11 @@ Ensure you have the following installed:
    cd GurobiPy-Course
 
 3. **Launch Jupyter Notebook**:
-  
-  
-Navigate to the Notebooks/ directory and open the desired tutorial.
+
+  ```bash
+   jupyter notebook
+
+**  Navigate to the Notebooks/ directory and open the desired tutorial.**
 
 ## 🤝 Contributing
 Contributions are welcome!
