@@ -59,10 +59,7 @@ Ensure you have the following installed:
 
 3. **Launch Jupyter Notebook**:
 
-  ```bash
-   jupyter notebook
-
-**  Navigate to the Notebooks/ directory and open the desired tutorial.**
+Navigate to the Notebooks/ directory and open the desired tutorial.
 
 ## 🤝 Contributing
 Contributions are welcome!
